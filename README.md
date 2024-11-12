@@ -58,40 +58,28 @@ This is an online learning Platform built using the MERN (MongoDB, Express.js, R
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Elearning-Platform-Using-MERN
-```
-
-3. Install dependencies for the server:
+1. Install dependencies for the server:
 
 ```bash
 cd backend
 npm install
 ```
 
-4. Navigate to the client directory and install client dependencies:
+2. Navigate to the client directory and install client dependencies:
 
 ```bash
 cd frontend
 npm install
 ```
 
-5. Run Frontend:
+3. Run Frontend:
 
 ```bash
 cd frontend
 npm start
 ```
 
-6. Run Backend:
+4. Run Backend:
 
 ```bash
 cd backend
